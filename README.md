@@ -1,5 +1,5 @@
 ```
-Warning !! This is only for TypeScript Howl issue workaround will only push for this update.
+Warning !! This is only for TypeScript Howl issue workaround. Will only push for this update.
 ```
 # useSound
 
