@@ -1,3 +1,6 @@
+```
+Warning !! This is only for TypeScript Howl issue workaround will only push for this update.
+```
 # useSound
 
 ### A React Hook for Sound Effects
