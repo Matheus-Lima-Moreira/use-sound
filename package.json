@@ -1,5 +1,5 @@
 {
-  "name": "use-sound",
+  "name": "@viveljs/use-sound",
   "author": "Josh Comeau",
   "version": "4.0.1",
   "module": "dist/use-sound.esm.js",
