@@ -1,4 +1,6 @@
 /// <reference types="howler" />
+Import { Howl } from 'howler';
+
 export declare type SpriteMap = {
   [key: string]: [number, number];
 };
